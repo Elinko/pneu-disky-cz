@@ -30,8 +30,8 @@ get_header();
 		<div id="fh5co-blog-section">
 			<div class="container">
 				<div class="text-center he-banner">
-					<div class="heureka-affiliate-category" data-trixam-positionid="24845" data-trixam-categoryid="972" data-trixam-categoryfilters="" data-trixam-codetype="iframe" data-trixam-linktarget="blank"></div>
-					<div class="heureka-affiliate-category" data-trixam-positionid="24849" data-trixam-categoryid="1471" data-trixam-categoryfilters="" data-trixam-codetype="iframe" data-trixam-linktarget="blank"></div>
+					<div class="heureka-affiliate-category" data-trixam-positionid="82839" data-trixam-categoryid="972" data-trixam-categoryfilters="" data-trixam-codetype="iframe" data-trixam-linktarget="blank"></div>
+					<div class="heureka-affiliate-category" data-trixam-positionid="82839" data-trixam-categoryid="1471" data-trixam-categoryfilters="" data-trixam-codetype="iframe" data-trixam-linktarget="blank"></div>
 		  	</div>
 				<div class="row">
 					<div class="col-md-12 text-center heading-section animate-box">

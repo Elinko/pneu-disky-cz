@@ -110,7 +110,7 @@ figure img {
 	transition: .3s all;
 	border-radius: 30px!important;
 	background-size: 200% 100%!important;
-	border: none;
+	border: none!important;
 }
 
 .tab-content .row {

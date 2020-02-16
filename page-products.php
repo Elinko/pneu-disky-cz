@@ -137,8 +137,8 @@
 								}
 							?>
 							<br>
-							<div class="heureka-affiliate-category" data-trixam-positionid="24847" data-trixam-categoryid="972" data-trixam-categoryfilters="" data-trixam-codetype="iframe" data-trixam-linktarget="blank"></div>
-							<div class="heureka-affiliate-category" data-trixam-positionid="24850" data-trixam-categoryid="1471" data-trixam-categoryfilters="" data-trixam-codetype="iframe" data-trixam-linktarget="blank"></div>
+						<div class="heureka-affiliate-category" data-trixam-positionid="82841" data-trixam-categoryid="972" data-trixam-categoryfilters="" data-trixam-codetype="iframe" data-trixam-linktarget="blank"></div>
+						<div class="heureka-affiliate-category" data-trixam-positionid="82841" data-trixam-categoryid="1471" data-trixam-categoryfilters="" data-trixam-codetype="iframe" data-trixam-linktarget="blank"></div>
 					</div>
 
 					<div class="col-md-9  col-lg-9 tab-content">
